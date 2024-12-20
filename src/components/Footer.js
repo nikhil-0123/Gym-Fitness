@@ -11,19 +11,19 @@ const Footer = () => {
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor.
             </p>
             <ul>
-              <li><a href="#" className="hover:text-gray-900">Our Story</a></li>
-              <li><a href="#" className="hover:text-gray-900">Mission & Vision</a></li>
-              <li><a href="#" className="hover:text-gray-900">Meet the Team</a></li>
+              <li><a href="/" className="hover:text-gray-900">Our Story</a></li>
+              <li><a href="/" className="hover:text-gray-900">Mission & Vision</a></li>
+              <li><a href="/" className="hover:text-gray-900">Meet the Team</a></li>
             </ul>
           </div>
 
           <div className="w-full md:w-1/2 lg:w-1/4 px-4 mb-8 lg:mb-0">
             <h5 className="uppercase text-gray-700 font-bold mb-4">Quick Links</h5>
             <ul>
-              <li><a href="#" className="hover:text-gray-900">Home</a></li>
-              <li><a href="#" className="hover:text-gray-900">About Us</a></li>
-              <li><a href="#" className="hover:text-gray-900">Services</a></li>
-              <li><a href="#" className="hover:text-gray-900">Contact Us</a></li>
+              <li><a href="/" className="hover:text-gray-900">Home</a></li>
+              <li><a href="/" className="hover:text-gray-900">About Us</a></li>
+              <li><a href="/" className="hover:text-gray-900">Services</a></li>
+              <li><a href="/" className="hover:text-gray-900">Contact Us</a></li>
             </ul>
           </div>
 
@@ -43,13 +43,13 @@ const Footer = () => {
             </ul>
 
             <div className="flex space-x-4 mt-4">
-              <a href="#" aria-label="Facebook" className="hover:text-gray-900">
+              <a href="/" aria-label="Facebook" className="hover:text-gray-900">
                 <FaFacebook />
               </a>
-              <a href="#" aria-label="Twitter" className="hover:text-gray-900">
+              <a href="/" aria-label="Twitter" className="hover:text-gray-900">
                 <FaTwitter />
               </a>
-              <a href="#" aria-label="Instagram" className="hover:text-gray-900">
+              <a href="/" aria-label="Instagram" className="hover:text-gray-900">
                 <FaInstagram />
               </a>
             </div>

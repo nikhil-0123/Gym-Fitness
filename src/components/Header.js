@@ -87,8 +87,8 @@ const Header = () => {
         </div>
 
         <div className="hidden lg:flex items-center text-white text-lg">
-          <Link to="GetStarted/" className="ml-4 rounded-full bg-green-600 px-4 py-2 hover:bg-green-500">Get Started</Link>
-          <Link to="Login/" className="ml-4 rounded-full bg-green-600 px-4 py-2 hover:bg-green-500">Login</Link>
+          <Link to="/GetStarted" className="ml-4 rounded-full bg-green-600 px-4 py-2 hover:bg-green-500">Get Started</Link>
+          <Link to="/Login" className="ml-4 rounded-full bg-green-600 px-4 py-2 hover:bg-green-500">Login</Link>
         </div>
       </div>
     </header>
